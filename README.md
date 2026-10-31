@@ -1,5 +1,5 @@
 # Football Concussion Risk Analysis
-An independent research project by Jayden Rhee that looks at which situations in football are linked to the highest concussion risk. It uses published NFL concussion data from 1996–2001 and 2002–2007 (Casson et al., 2010, *Sports Health*).
+An independent research project by Jungmin Rhee that looks at which situations in football are linked to the highest concussion risk. It uses published NFL concussion data from 1996–2001 and 2002–2007 (Casson et al., 2010, *Sports Health*).
 ## Main finding
 Passing plays have the most concussions in total. Per play, though, a kickoff is about 3.6 to 3.8 times as likely to cause a concussion as a passing play, and 3.4 to 5.1 times as likely as a running play. This was true in both time periods.
 ## Files
